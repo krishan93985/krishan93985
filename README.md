@@ -72,7 +72,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🐾 Pet Services Platform (0 → 1 Startup Build)  
+### 🐾 [Pet Services Platform (0 → 1 Startup Build)](https://sploot.space) 
 - Architected and developed a **geo-optimized auto-matching engine** (Node.js, TypeScript, MongoDB geospatial indexing).  
 - Improved service fulfillment by **30%**, driving **60% of company revenue**.  
 - Designed and deployed **scalable REST APIs** with CI/CD pipelines on **AWS (ECS, EC2, ALB, S3)**.  
@@ -86,7 +86,7 @@
 
 ---
 
-### 📂 [Wallet App](https://github.com/krishan93985/highlevel-server) (Full-Stack, Modular Design) 
+### 📂 [Wallet App (Full-Stack, Modular Design)](https://github.com/krishan93985/highlevel-server)
 [Client](https://github.com/krishan93985/highlevel-client) 
 [Server](https://github.com/krishan93985/highlevel-server)
 - Developed a **wallet application** with NestJS backend and React (Vite + TS + Tailwind) frontend.  
