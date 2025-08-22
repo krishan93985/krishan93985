@@ -86,7 +86,9 @@
 
 ---
 
-### 📂 Wallet App (Full-Stack, Modular Design)  
+### 📂 [Wallet App](https://github.com/krishan93985/highlevel-server) (Full-Stack, Modular Design) 
+[Client](https://github.com/krishan93985/highlevel-client) 
+[Server](https://github.com/krishan93985/highlevel-server)
 - Developed a **wallet application** with NestJS backend and React (Vite + TS + Tailwind) frontend.  
 - Features: wallet setup, **secure transactions**, history with pagination, **CSV exports**, and robust API error handling.  
 - Architected using **modular Clean Architecture principles** to ensure scalability and maintainability. 
