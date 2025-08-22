@@ -7,13 +7,13 @@
 
 ## 🚀 About Me  
 
-- 🌐 Experienced in **MERN stack** with a **backend-heavy focus** (Node.js, Express, NestJS, MongoDB, PostgreSQL, Redis).  
-- 🏗️ Designed and shipped **high-performance APIs, auto-matching engines, payout systems, and event-driven workflows** in production.  
-- ☁️ Hands-on with **AWS (ECS, EC2, S3, ALB), Docker, Jenkins CI/CD, Azure** for infra & deployments.  
-- ⚡ Optimized DB queries (up to **75% faster execution**) and reduced infra costs.  
-- 🧑‍🤝‍🧑 Led small engineering teams, owned 0→1 feature development, and delivered mission-critical systems.  
-- 🤖 Enthusiastic about **AI-assisted development tools** (Cursor, Copilot) for productivity.  
-- 📚 Actively learning **System Design, Distributed Systems, and Clean Architecture** to level up engineering depth.  
+🌐 Experienced in **MERN stack** with a **backend-heavy focus** (Node.js, Express, NestJS, MongoDB, PostgreSQL, Redis).  
+🏗️ Designed and shipped **high-performance APIs, auto-matching engines, payout systems, and event-driven workflows** in production.  
+☁️ Hands-on with **AWS (ECS, EC2, S3, ALB), Docker, Jenkins CI/CD, Azure** for infra & deployments.  
+⚡ Optimized DB queries (up to **75% faster execution**) and reduced infra costs.  
+🧑‍🤝‍🧑 Led small engineering teams, owned 0→1 feature development, and delivered mission-critical systems.  
+🤖 Enthusiastic about **AI-assisted development tools** (Cursor, Copilot) for productivity.  
+📚 Actively learning **System Design, Distributed Systems, and Clean Architecture** to level up engineering depth.  
 
 ---
 
